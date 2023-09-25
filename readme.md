@@ -1,3 +1,5 @@
+![](https://miro.medium.com/v2/resize:fit:800/0*X1I3rXiHQHa9nMLa)
+
 # Découverte de Spark avec Databricks
 
 Ce projet est une introduction à Apache Spark en utilisant Databricks Community Edition. Il vous guide à travers les étapes pour commencer à travailler avec Spark, à comprendre ses concepts de base, à effectuer des opérations de traitement des données et à construire des modèles d'apprentissage automatique simples.

@@ -21,8 +21,8 @@ Ce projet est une introduction à Apache Spark en utilisant Databricks Community
 
 Le projet est organisé comme suit :
 
-- `notebooks/`: Contient les notebooks Databricks pour chaque étape du projet.
-- `data/`: Contient les ensembles de données utilisés dans le projet.
+- `Mushroom Classification.ipynb`: Contient le notebook Databricks pour chaque étape du projet.
+- `mushrooms.csv`: Contient les ensembles de données utilisés dans le projet.
 
 
 ## Utilisation
